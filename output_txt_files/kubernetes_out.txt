@@ -1,0 +1,11 @@
+[khoa@udahome project-ml-microservice-kubernetes]$ kubectl get pods
+NAME      READY   STATUS    RESTARTS   AGE
+appdemo   1/1     Running   2          3h23m
+[khoa@udahome project-ml-microservice-kubernetes]$ kubectl port-forward appdemo 8000:80
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
