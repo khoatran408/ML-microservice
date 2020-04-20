@@ -1,4 +1,4 @@
-<will include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/khoatran408/ML-microservice.svg?style=shield)](https://circleci.com/gh/khoatran408/ML-microservice)
 
 ## Setup the Environment
 
